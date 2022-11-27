@@ -15,7 +15,7 @@ Here in this wiki, I will share all the content which I came across during my in
 
 I will cover each round separately in this wiki. Lets start with Technical round.
 
-##Technical Round
+## Technical Round
 
 One of the most important rounds for both freshers and experience people. Here they test your knowledge in Data structure and Algorithms. This rounds does not mean that you should well versed with all the different algorithm which exist. But you should atleast have knowledge about the most common one. I have seen people getting very weird and hard problem where they have to implement some rare algorithms. But that is very rare. I won't suggest to spend time there as we should trust the basic probability of facing it. If you want to see the commong interview question pattern you can visit the following link(https://algo.monster/problems/stats)
 
@@ -37,7 +37,7 @@ Resources:
 
 -- will update more resources in coming days --
 
-##High Level Design
+## High Level Design
 
 It means overall archectiture of a system. It includes the description of system architecture, data base design, brief description on systems, services, platforms and relationship among modules. Questions used to be very vague like design Whatspp, Implement Redbus etc. Here you need to come up with a design in less than 30-45 minutes depending on the interviewer. Here interviwer is not expecting you to code but you should be able to design the databases, API etc if asked for.
 
@@ -51,7 +51,7 @@ Resrouces:
 7. https://github.com/donnemartin/system-design-primer (Learning)
 8. https://github.com/checkcheckzz/system-design-interview (Learning)
 
-##Low level Design
+## Low level Design
 It describes detailed description of each and every module means it includes actual logic for every system component and it goes deep into each modules specification. Here you have to code the classes, interfaces etc. You should have very good knowledge of Design patterns. If you know an object oriented language then it would be a plus point.
 
 Resources:
@@ -61,7 +61,7 @@ Resources:
 4. https://betterprogramming.pub/how-to-ace-the-low-level-design-interview-3f1be6401070 (blog)
 
 
-##Behavioural rounds
+## Behavioural rounds
 I believe here I dont need to give any introduction. This is one of the round where people used to skip but please atleast spent a day and prepare. Most of the interviewers really care about the answer you give in this round. Amazon, google etc. really take this rounds very seriously and you should be aware about what to be prepared and what to be answered for each questions.
 
 Resourcs:
